@@ -1,0 +1,2 @@
+Prefix plugins/TranscriptFeatures/example/
+Plugin TranscriptFeatures inputfile none outputfile HG19
